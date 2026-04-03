@@ -1,0 +1,9 @@
+Flask==3.*
+gunicorn==21.*
+firebase-admin==6.*
+xgboost==1.7.6
+numpy==1.23.5
+scikit-learn==1.3.2
+pandas==2.1.3
+python-dotenv==1.0.0
+twilio==8.11.0

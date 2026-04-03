@@ -1,0 +1,15 @@
+{
+  "functions": [
+    {
+      "source": "firebase_backend",
+      "codebase": "default",
+      "ignore": [
+        "venv",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ],
+      "runtime": "python311"
+    }
+  ]
+}

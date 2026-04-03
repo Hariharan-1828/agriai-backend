@@ -1,0 +1,110 @@
+{
+  "label_to_id": {
+    "Corn___Common_Rust": 0,
+    "Corn___Gray_Leaf_Spot": 1,
+    "Corn___Healthy": 2,
+    "Corn___Northern_Leaf_Blight": 3,
+    "Potato___Early_Blight": 4,
+    "Potato___Healthy": 5,
+    "Potato___Late_Blight": 6,
+    "Rice___Brown_Spot": 7,
+    "Rice___Healthy": 8,
+    "Rice___Leaf_Blast": 9,
+    "Rice___Neck_Blast": 10,
+    "Sugarcane_Bacterial Blight": 11,
+    "Sugarcane_Healthy": 12,
+    "Sugarcane_Red Rot": 13,
+    "Wheat___Brown_Rust": 14,
+    "Wheat___Healthy": 15,
+    "Wheat___Yellow_Rust": 16
+  },
+  "pca_dim": 64,
+  "full_embed_dim": 1024,
+  "id_to_info": {
+    "7": {
+      "class": "Rice___Brown_Spot",
+      "tamil": "நெல் - பழுப்பு புள்ளி",
+      "action": "கார்பெண்டசிம் தெளிக்கவும். நீர் தேக்கம் தவிர்க்கவும்."
+    },
+    "8": {
+      "class": "Rice___Healthy",
+      "tamil": "நெல் - ஆரோக்கியமான",
+      "action": "நோய் இல்லை. தொடர்ந்து கவனிக்கவும்."
+    },
+    "9": {
+      "class": "Rice___Leaf_Blast",
+      "tamil": "நெல் - இலை வெடிப்பு",
+      "action": "ட்ரைசைக்லோசோல் தெளிக்கவும். 7 நாள் இடைவெளி."
+    },
+    "10": {
+      "class": "Rice___Neck_Blast",
+      "tamil": "நெல் - கழுத்து வெடிப்பு",
+      "action": "உடனடியாக ட்ரைசைக்லோசோல் தெளிக்கவும்."
+    },
+    "14": {
+      "class": "Wheat___Brown_Rust",
+      "tamil": "கோதுமை - பழுப்பு துரு",
+      "action": "புரோபிக்கோனசோல் தெளிக்கவும். 14 நாள் இடைவெளி."
+    },
+    "15": {
+      "class": "Wheat___Healthy",
+      "tamil": "கோதுமை - ஆரோக்கியமான",
+      "action": "நோய் இல்லை. தொடர்ந்து கவனிக்கவும்."
+    },
+    "16": {
+      "class": "Wheat___Yellow_Rust",
+      "tamil": "கோதுமை - மஞ்சள் துரு",
+      "action": "டெபுக்கோனசோல் தெளிக்கவும். உடனடியாக செயல்படவும்."
+    },
+    "11": {
+      "class": "Sugarcane_Bacterial Blight",
+      "tamil": "கரும்பு - பாக்டீரியா நோய்",
+      "action": "நோய் தாக்கிய பகுதி அகற்றவும். காப்பர் கலவை தெளிக்கவும்."
+    },
+    "12": {
+      "class": "Sugarcane_Healthy",
+      "tamil": "கரும்பு - ஆரோக்கியமான",
+      "action": "நோய் இல்லை. தொடர்ந்து கவனிக்கவும்."
+    },
+    "13": {
+      "class": "Sugarcane_Red Rot",
+      "tamil": "கரும்பு - சிவப்பு அழுகல்",
+      "action": "நோய் தாக்கிய கரும்பை அகற்றவும். விவசாயியை அழைக்கவும்."
+    },
+    "0": {
+      "class": "Corn___Common_Rust",
+      "tamil": "மக்காச்சோளம் - பொது துரு",
+      "action": "மேன்கோசெப் தெளிக்கவும். 10 நாள் இடைவெளி."
+    },
+    "1": {
+      "class": "Corn___Gray_Leaf_Spot",
+      "tamil": "மக்காச்சோளம் - சாம்பல் புள்ளி",
+      "action": "அசோக்ஸிஸ்ட்ரோபின் தெளிக்கவும்."
+    },
+    "2": {
+      "class": "Corn___Healthy",
+      "tamil": "மக்காச்சோளம் - ஆரோக்கியமான",
+      "action": "நோய் இல்லை. தொடர்ந்து கவனிக்கவும்."
+    },
+    "3": {
+      "class": "Corn___Northern_Leaf_Blight",
+      "tamil": "மக்காச்சோளம் - வடக்கு கருகல்",
+      "action": "புரோபிக்கோனசோல் தெளிக்கவும். மழைக்கு பின் மீண்டும் தெளிக்கவும்."
+    },
+    "4": {
+      "class": "Potato___Early_Blight",
+      "tamil": "உருளை - ஆரம்ப கருகல்",
+      "action": "குளோரோத்தாலோனில் தெளிக்கவும். 7 நாள் இடைவெளி."
+    },
+    "5": {
+      "class": "Potato___Healthy",
+      "tamil": "உருளை - ஆரோக்கியமான",
+      "action": "நோய் இல்லை. தொடர்ந்து கவனிக்கவும்."
+    },
+    "6": {
+      "class": "Potato___Late_Blight",
+      "tamil": "உருளை - பிற்கால கருகல்",
+      "action": "மேட்டாலக்ஸில் தெளிக்கவும். உடனடியாக செயல்படவும்."
+    }
+  }
+}

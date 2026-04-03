@@ -1,0 +1,43 @@
+﻿node.exe : (node:21608) 
+[DEP0040] 
+DeprecationWarning: The 
+`punycode` module is 
+deprecated. Please use a 
+userland alternative 
+instead.
+At C:\Users\harih\AppData\
+Roaming\npm\firebase.ps1:2
+4 char:5
++     & "node$exe"  "$base
+dir/node_modules/firebase-
+tools/lib/bin/fireb ...
++     ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: ((  
+  node:21608) [D...nati   
+ ve instead.:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+(Use `node 
+--trace-deprecation ...` 
+to show where the warning 
+was created)
+
+[1m[37m===[39m Deploying to 'kisanbot-5dcc0'...[22m
+
+[36m[1mi [22m[39m deploying [1mfunctions[22m
+[36m[1mi  functions:[22m[39m preparing codebase [1mdefault[22m for deployment
+[36m[1mi  functions:[22m[39m ensuring required API [1mcloudfunctions.googleapis.com[22m is enabled...
+[36m[1mi  functions:[22m[39m ensuring required API [1mcloudbuild.googleapis.com[22m is enabled...
+[36m[1mi  artifactregistry:[22m[39m ensuring required API [1martifactregistry.googleapis.com[22m is enabled...
+[33m[1m!  functions:[22m[39m missing required API [1mcloudbuild.googleapis.com[22m. Enabling now...
+[33m[1m!  artifactregistry:[22m[39m missing required API [1martifactregistry.googleapis.com[22m. Enabling now...
+
+[1m[31mError:[39m[22m Your project [1mkisanbot-5dcc0[22m must be on the Blaze (pay-as-you-go) plan to complete this command. Required API [1mcloudbuild.googleapis.com[22m can't be enabled until the upgrade is complete. To upgrade, visit the following URL:
+
+https://console.firebase.google.com/project/kisanbot-5dcc0/usage/details

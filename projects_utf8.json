@@ -1,0 +1,40 @@
+﻿{
+  "status": "success",
+  "result": [
+    {
+      "projectId": "foras-surveillance",
+      "projectNumber": "480618007833",
+      "displayName": "foras surveillance",
+      "name": "projects/foras-surveillance",
+      "resources": {
+        "hostingSite": "foras-surveillance",
+        "realtimeDatabaseInstance": "foras-surveillance-default-rtdb"
+      },
+      "state": "ACTIVE",
+      "etag": "1_054ddc32-b6e0-42d1-bd9a-911799ca7385"
+    },
+    {
+      "projectId": "kisanbot-5dcc0",
+      "projectNumber": "384881804129",
+      "displayName": "kisanbot",
+      "name": "projects/kisanbot-5dcc0",
+      "resources": {
+        "hostingSite": "kisanbot-5dcc0",
+        "realtimeDatabaseInstance": "kisanbot-5dcc0-default-rtdb"
+      },
+      "state": "ACTIVE",
+      "etag": "1_48fe9590-cf7c-47dc-b6ea-67420fc13d9e"
+    },
+    {
+      "projectId": "studio-2796960196-5bbe5",
+      "projectNumber": "444508082419",
+      "displayName": "Firebase app",
+      "name": "projects/studio-2796960196-5bbe5",
+      "resources": {
+        "hostingSite": "studio-2796960196-5bbe5"
+      },
+      "state": "ACTIVE",
+      "etag": "1_7a3f99c6-fbaa-4979-a1ad-3b7c81820b17"
+    }
+  ]
+}
